@@ -1,8 +1,8 @@
 from telethon import TelegramClient, events
 
 # Replace with your actual values from my.telegram.org
-api_id = 1234567
-api_hash = 'your_api_hash_here'
+api_id = 29907731
+api_hash = '8f59d632cb374705cfdee46ac17cc3cd'
 bot_token = '7968614560:AAFXl7Bcm2aqqoVY2pHov8H1WEsYBC2F0bU'
 
 bot = TelegramClient('bot', api_id, api_hash).start(bot_token=bot_token)
