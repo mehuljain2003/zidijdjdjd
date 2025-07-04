@@ -1,0 +1,6 @@
+Crypto
+m3u8
+mmap
+requests
+tqdm
+python-telegram-bot
